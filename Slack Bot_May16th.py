@@ -3,7 +3,7 @@ import sys
 import random
 import requests
 if __name__ == '__main__':
-    url = "https://hooks.slack.com/services/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"                            
+    url = private                           
     title = (f"Miro Minute :stopwatch:")
     slack_data = {
         "username": "Miro Machine",
